@@ -1,0 +1,12 @@
+Add each member's photo to this folder using the exact filenames shown on team.html:
+
+hajar-oukhlif.jpg - Hajar Oukhlif (Campus Director)
+yassine-boujahd.jpg - Yassine Boujahd (Vice Campus Director)
+salma-mirouch.jpg - Salma Mirouch (Team Coordinator)
+oussama-elborji.jpg - Oussama Elborji (Team Media and Design)
+ouiam-channouf.jpg - Ouiam Channouf (Marketing and Communications Team)
+abdeljalil-idmbark.jpg - Abdeljalil IDM'BARK (Sponsorship and Partnerships Coordinator)
+khalid-es-sadik.jpg - Khalid ES-SADIK (Event Coordinator)
+oumayma-zouizou.jpg - Oumayma Zouizou (Judges and Experts Team)
+
+The page currently lists 8 members because 8 names were supplied. Add the ninth person once their name and role are available.
